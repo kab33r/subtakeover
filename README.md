@@ -6,7 +6,7 @@ Bash Subdomain Takeover automation using Subzy and notify the results on your Sl
 
 -Enter domain name: domain1.tld domain2.tld domain3.tld
 
-![Subtakeoverr](subtakeover1.png)
+
 
 # Features
 - Check for subdomain takeovers for input subdomain file location.
