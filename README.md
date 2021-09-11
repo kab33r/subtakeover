@@ -3,8 +3,6 @@ Bash Subdomain Takeover automation using Subzy and notify the results on your Sl
 
 # Usage
 `$./subtakeover.sh`
-
--Enter subdomains location: (ex: ~/Projects/targets/subdomains.txt) : subdomains.txt
 ![Subtakeover](subtakeover1.png)
 ![Subtakeover](subtakeover2.png)
 
